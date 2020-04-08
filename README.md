@@ -10,3 +10,4 @@ Some Data and AI codes to manage datas, play little games like tic-tac-toe (all 
 - Apriori : takes lists of lists argument to find the peers (Data analyse)
 
 
+- KNN Algorithm : data analysis, based on apprenticeship to predic the type of an input element
